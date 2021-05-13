@@ -3,7 +3,7 @@ let rad;
 let invet = false;
 function setup() {
   createCanvas(500,500);
-    vide = createVideo("assets/Flat_Walking_Background.mp4");
+    vide = createVideo("Flat_Walking_Background.mp4");
   vide.position(0,0);
   play = createButton("Play");
   pause = createButton("Pause");
